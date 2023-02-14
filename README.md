@@ -1,4 +1,4 @@
 # scaler_learning
  Repo to learn from scaler class
 
- This is a demo project fpr learnin Git.
+ This is a demo project fpr learnin Git. Changing after Branch 1.
